@@ -54,15 +54,15 @@ If you don't have dependents, do not pay for life insurance. No one is relying o
 
 Health insurance, you are young and healthy, Medicare is a tax on you to pay for the old/sick. Do the cheapest option. BUT get the option such that if you were in a serious emergence (get hit by a car that shatters all your bones and you have cancer), they will pay for everything. This should all be covered under the cheapest option just be sure to cover your worst case.
 
+# Why open an IRA or 401(k)?
+
+These are essentially just tax shelters. You want to avoid tax as much as possible (pay what is legally required of you).
+
 # How to open an IRA or 401(k)
 
 Your options are really 1) Charles Schwab, 2) Fidelity, or 3) Vanguard.
 Feel free to look up other options and do your own research. If you come across a website that doesn't list these 3 in the top 5, leave that website immediately.
 For full diclosure I use Fidelity but it really makes 0 difference between these 3.
-
-# Why open an IRA or 401(k)?
-
-These are essentially just tax shelters. You want to avoid tax as much as possible (pay what is legally required of you).
 
 # Which is better 401(k) or IRA?
 
@@ -86,6 +86,14 @@ Eh, you're young. Roughly:
 5% US Bonds / T-bills
 
 5% Cash (what happens if the stock market crashes by 30% again, BUY BUY BUY RIGHT NOW)
+
+## You said "Index Funds", should I buy ETFs or Mutual Funds?
+
+Personally, I prefer mutual funds. Some economists are worried that there's an ETF bubble (Shoutout to Prof Bogan). 
+
+I am less worried about a bubble but essentially an ETF is supposed to mimic a mutual fund exactly. The slight advantage of an ETF is you get immediate liquidiy - if you wake up at 11am EST and you go OH NO TECH STOCKS ARE GOING TO PLUMMET RIGHT NOW, you can sell your position immediately with an ETF. You have to wait for end of business hours for a mutual fund. The slight disadvantage is with an ETF that you don't actually own an underlying asset. A stock means you own a piece of a company so if Macy's goes bankrupt and liquidates, you as a stock holder are entitled to some of that value. If Macy's liquidates and you hold a Macy's ETF, you don't own anything tough luck. Personally, I feel more comfortable with owning a piece of a "real" asset knowing that I am not smart enough to predict the suddent plunge in the stock market intra-day to make a meaningful difference.
+
+(Stock market crashes are almost always occur across multiple days. The coronavirus crash dropped 30% over like 2 weeks, not 1 day. There are stock market shock short-circuits that prevent the entire stock market from dropping more than 5%? 8%? in a day). 
 
 # Final Rant Against Robinhood
 
