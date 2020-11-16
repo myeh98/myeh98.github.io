@@ -21,7 +21,7 @@ Day today finances: monitor your budgeting for 2 months, then see if you can dec
 4. Start an emergency fund - cover 3+ months of your budget
 5. Start investing
 
-#### Everyone starts off if a different boat. There is no you OUGHT to be here by now, there is only where you are and what you should do to improve your financial situation according to YOUR goals
+## Everyone starts off if a different boat. There is no you OUGHT to be here by now, there is only where you are and what you should do to improve your financial situation according to YOUR goals
 
 If you are a low-income student with a lot of debt, you probably aren't looking at what the difference between a Roth and traditional 401(k). That's totally fine! Don't freak out! (Also if this is you, keep an eye out for Biden's student relief package that hopefully will come but don't rely on it).
 
@@ -57,11 +57,25 @@ These are essentially just tax shelters. You want to avoid tax as much as possib
 # Which is better 401(k) or IRA?
 
 Yes.
+
 In all seriousness, a 401(k) is likely better because your employer will match some of your contributions. If you max at your 401(k) it will likely be around 3%, but imagine being able to buy all the stocks at 3% lower price than everyone else. That would be amazing!
 
 # If you aren't earning much income but CAN afford to save, do a Roth-401(k) or Roth IRA
 
 Your income will never be this low again in your life. Pay the tax you owe right now at this low rate and never pay tax on the money again. For those that are confused, this is essentially just a tax-advantaged account.
+
+
+# Okay tell me where I should put my money!
+
+Eh, you're young. Roughly:
+
+80% Total Stock Market Index Funds
+
+10% US REIT (Real Estate)
+
+5% US Bonds / T-bills
+
+5% Cash (what happens if the stock market crashes by 30% again, BUY BUY BUY RIGHT NOW)
 
 # Final Rant Against Robinhood
 
